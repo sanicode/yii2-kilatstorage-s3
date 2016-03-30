@@ -28,4 +28,4 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \sanicode\KilatStorageS3\AutoloadExample::widget(); ?>```
+<?= \sanicode\KilatStorageS3\S3::widget(); ?>```
