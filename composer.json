@@ -1,0 +1,21 @@
+{
+    "name": "sanicode/yii2-kilatstorage-s3",
+    "description": "This class is a standalone S3 REST implementation for PHP 5.2.x (using CURL), that supports large file uploads and doesn’t require PEAR.",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "sani",
+            "email": "sani.iman.pribadi@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "sanicode\\KilatStorageS3\\": ""
+        }
+    }
+}
