@@ -1,4 +1,4 @@
-KilatStorage S3 Yii2
+Yii2 KilatStorage S3
 ====================
 This class is a standalone S3 REST implementation for PHP 5.2.x (using CURL), that supports large file uploads and doesn’t require PEAR.
 
