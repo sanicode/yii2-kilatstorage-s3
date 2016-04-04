@@ -32,7 +32,7 @@ Once the extension is installed, simply use it in your code by  :
     use sanicode\KilatStorageS3\S3;
     $s3 = new S3($accessKey, $secretKey);
     //put object
-    $s3->putObject(...)
+    $s3->putObjectFile(...)
     //delete object
     $s3->deleteObject(...)
 ?>
